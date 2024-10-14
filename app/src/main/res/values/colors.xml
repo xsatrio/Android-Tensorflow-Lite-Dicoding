@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="delete">#DB6D6D</color>
+    <color name="Primary">#24232B</color>
+    <color name="PrimaryDark">#7D3C18</color>
+</resources>

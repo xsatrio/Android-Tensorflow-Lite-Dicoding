@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/PrimaryDark</item>
+        <item name="android:statusBarColor">@color/PrimaryDark</item>
+        <item name="android:navigationBarColor">@color/PrimaryDark</item>
+    </style>
+</resources>

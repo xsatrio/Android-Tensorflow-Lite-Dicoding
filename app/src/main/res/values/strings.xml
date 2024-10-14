@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="tflitevision_is_not_initialized_yet">TfLiteVision is not initialized yet</string>
+    <string name="inference">Inference Time</string>
+    <string name="title_home">Prediksi</string>
+    <string name="title_history">Histori</string>
+    <string name="title_news">Berita</string>
+    <string name="imgResult">Hasil Gambar</string>
+    <string name="btnSave">Simpan Hasil</string>
+    <string name="date">Tanggal hasil</string>
+    <string name="emptyHistory">Kamu belum menyimpan hasil prediksi</string>
+    <string name="mediaCover">Gambar</string>
+    <string name="delete">Hapus</string>
+</resources>
